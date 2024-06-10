@@ -1,0 +1,5 @@
+print("nika datashvili")
+print("nia canturidze")
+print("andria faracavania")
+print("nikoloz bucxrikidze")
+print("rati shavadze")
